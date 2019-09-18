@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/The-Grape-Vine/newsapi-ts.git"
+    "url": "git+https://github.com/The-Grape-Vine/newsapi.js.git"
   },
   "author": "CircuitRCAY",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/The-Grape-Vine/newsapi-ts/issues"
+    "url": "https://github.com/The-Grape-Vine/newsapi.js/issues"
   },
-  "homepage": "https://github.com/The-Grape-Vine/newsapi-ts#readme",
+  "homepage": "https://github.com/The-Grape-Vine/newsapi.js#readme",
   "devDependencies": {
     "@types/chai": "^4.2.3",
     "@types/mocha": "^5.2.7",
