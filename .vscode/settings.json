@@ -1,0 +1,5 @@
+{
+    "mochaExplorer.files": "src/test/*.spec.ts",
+    "mochaExplorer.require": "ts-node/register",
+    "mochaExplorer.timeout": 10000
+}
