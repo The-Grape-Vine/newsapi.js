@@ -93,3 +93,6 @@ public
 
 # Test Configurations
 test.config.json
+
+# Transpiled code
+dist/
